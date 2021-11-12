@@ -1,0 +1,13 @@
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\bin\Debug\TeacherStudent.exe.config
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\bin\Debug\TeacherStudent.exe
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\bin\Debug\TeacherStudent.pdb
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.AddTeacher.resources
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.Form1.resources
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.Form2.resources
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.Properties.Resources.resources
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.csproj.GenerateResource.cache
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.exe
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.pdb
+C:\Users\anast\source\repos\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.AddStudent.resources
